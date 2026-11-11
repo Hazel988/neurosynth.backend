@@ -1,0 +1,10 @@
+fastAPI
+uvicorn
+SQLAlchemy
+psycopg2-binary
+psycopg[binary]
+numpy
+pandas
+pyarrow
+nibabel
+scipy
